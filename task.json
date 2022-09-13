@@ -1,0 +1,29 @@
+{
+    "name": "Ruslan",
+    "surname": "Shchelokov",
+    "age": 24,
+    "placeOfStudy": "Neobis",
+    "family": [
+      {
+        "name": "Daniil",
+        "age": 22,
+        "familyMember": "brother"
+      },
+      {
+        "name": "Vasiliy",
+        "age": 56,
+        "familyMember": "father"
+      },
+      {
+        "name": "Elmira",
+        "age": 52,
+        "familyMember": "mother"
+      }
+    ],
+    "hobby": [
+        "basketboll",
+        "reading books",
+        "judo"
+      ]
+  }
+  
